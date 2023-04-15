@@ -4,8 +4,6 @@ fonttools==4.25.0
 GitPython==3.1.31
 joblib==1.2.0
 jsonpointer==2.1
-matplotlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_croot-hkd3cnd2/matplotlib-suite_1647506470899/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
 numpy==1.23.5
 oauthlib==3.2.2
 pandas==1.4.2
