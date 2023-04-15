@@ -2,7 +2,6 @@ joblib==1.2.0
 numpy==1.23.5
 pandas==1.4.2
 scikit-learn==1.2.2
-scikit-learn-intelex==2021.20220215.132722
 sklearn==0.0
 streamlit==1.21.0
 virtualenv==20.17.1
